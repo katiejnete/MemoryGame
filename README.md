@@ -24,7 +24,7 @@ A simple browser-based memory game built with HTML, CSS, and JavaScript. The obj
    - Players can’t click the same card twice in one turn.
    - Only two cards can be flipped at a time, preventing rapid guessing.
 
-## 🧑‍💻 How to Run
+## How to Run
 
 - `git clone https://github.com/katiejnete/MemoryGame.git`
 - `cd MemoryGame`
